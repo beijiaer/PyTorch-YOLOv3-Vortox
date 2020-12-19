@@ -1,0 +1,6 @@
+classes= 2
+train=../data/vortox-annotation/trainVortox2.txt
+valid=../data/vortox-annotation/testVortox2.txt
+names=../data/vortox-annotation/Vortox.names
+backup=
+eval=

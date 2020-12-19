@@ -1,0 +1,26 @@
+<annotation>
+	<folder>vortoxes</folder>
+	<filename>vortox00006.png</filename>
+	<path>F:\BaiduNetdiskDownload\vortox-annotation\vortoxes\vortox00006.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>315</width>
+		<height>180</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vortox</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>112</ymin>
+			<xmax>147</xmax>
+			<ymax>166</ymax>
+		</bndbox>
+	</object>
+</annotation>

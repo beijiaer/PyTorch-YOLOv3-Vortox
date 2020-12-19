@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1</folder>
+	<filename>vortox00022.jpg</filename>
+	<path>C:\Users\小小韩之贝加尔\Desktop\1\vortox00022.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>601</width>
+		<height>341</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vortox</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>236</xmin>
+			<ymin>99</ymin>
+			<xmax>446</xmax>
+			<ymax>243</ymax>
+		</bndbox>
+	</object>
+</annotation>
